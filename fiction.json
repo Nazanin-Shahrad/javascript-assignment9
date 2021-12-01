@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Harry potter",
+        "Occupation": "Head of Auror Office",
+        "age": "2000-01-2",
+        "gender": "male"
+    },
+    {
+        "name": "Hermione Jean Granger",
+        "Occupation": "Department for the Regulation",
+        "age": "2010-01-03",
+        "gender": "female"
+    },
+    {
+        "name": "Draco Lucius Malfoy",
+        "Occupation": "Student",
+        "age": "1999-05-19",
+        "gender": "male"
+    },
+    {
+        "name": "Severus Snape",
+        "Occupation": "professor",
+        "age": "1998-10-10",
+        "gender": "male"
+    },
+    {
+        "name": "Luna Lovegood",
+        "Occupation": "Wizarding naturalist",
+        "age":"1940-10-11",
+        "gender": "female"
+    },
+    {
+        "name": "Minerva McGonagall",
+        "Occupation": "Department of Magical Law",
+        "age": "2005-09-19",
+        "gender": "female"
+    },
+    {
+        "name": "Ron Weasley",
+        "Occupation": "Auror",
+        "age": "1980-05-18",
+        "gender": "male"
+    },
+    {
+        "name": "Rubeus Hagrid",
+        "Occupation": "Keeper of Keys",
+        "age": "2002-03-02",
+        "gender": "male"
+    },
+    {
+        "name": "Dobby",
+        "Occupation": "Hogwarts kitchens worker,",
+        "age": "2000-09-19",
+        "gender": "male"
+    },
+    {
+        "name": "Ginny Weasley",
+        "Occupation": "Quidditch player for Holyhead Harpies",
+        "age": "2003-03-04",
+        "gender": "female"
+    }
+]
